@@ -1,0 +1,5 @@
+■ SparseArray instead of HashMap <Integer, Object>
+■ SparseBooleanArray instead of HashMap <Integer, Boolean>
+■ SparseIntArray instead of HashMap <Integer, Integer>
+■ SparseLongArray instead of HashMap <Integer, Long>
+■ LongSparseArray instead of HashMap <Long, Object>

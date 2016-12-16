@@ -1,0 +1,51 @@
+/****************************************/
+/** Created by TheKhaeng on 7/10/2016. **/
+/****************************************/
+
+{"movies":[
+	{
+		"id":"771353630",
+		"title":"Finding Dory",
+		"year":2016,
+		"mpaa_rating":"PG",
+		"runtime":100,
+		"critics_consensus":"",
+		"release_dates":{
+								"theater":"2016-06-17"
+								},
+		"ratings":{
+					"critics_rating":"Certified Fresh",
+					"critics_score":95,
+					"audience_rating":"Upright","audience_score":89
+				},
+		"synopsis":"\"Finding Dory\" reunites ...all-new bild from the original film.",
+		"posters":{
+					"thumbnail":"https://resizing.flixster.com/IuZITzGSOvNaS0ovyN1HvaaRh20=/54x80/v1.bTsxMTY4NTUzMDtwOzE3MDMwOzIwNDg7NDMyOzYzNw",
+					"profile":"https://resizing.flixster.com/IuZITzGSOvNaS0ovyN1HvaaRh20=/54x80/v1.bTsxMTY4NTUzMDtwOzE3MDMwOzIwNDg7NDMyOzYzNw",
+					"detailed":"https://resizing.flixster.com/IuZITzGSOvNaS0ovyN1HvaaRh20=/54x80/v1.bTsxMTY4NTUzMDtwOzE3MDMwOzIwNDg7NDMyOzYzNw",
+					"original":"https://resizing.flixster.com/IuZITzGSOvNaS0ovyN1HvaaRh20=/54x80/v1.bTsxMTY4NTUzMDtwOzE3MDMwOzIwNDg7NDMyOzYzNw"
+				},
+		"abridged_cast":[
+							{
+								"name":"Ellen DeGeneres",
+								"id":"162655678",
+								"characters":["Dory"]
+							},
+							...,
+							{
+								"name":"Ed O'Neill",
+								"id":"162663952",
+								"characters":["Hank"]
+							}
+						],
+		"alternate_ids":{"imdb":"2277860"},
+		"links":{
+					"self":"https://api.rottentomatoes.com/api/public/v1.0/movies/771353630.json",
+					"alternate":"https://www.rottentomatoes.com/m/finding_dory/",
+					"cast":"https://api.rottentomatoes.com/api/public/v1.0/movies/771353630/cast.json",
+					"reviews":"https://api.rottentomatoes.com/api/public/v1.0/movies/771353630/reviews.json",
+					"similar":"https://api.rottentomatoes.com/api/public/v1.0/movies/771353630/similar.json"
+				}
+	},
+	...
+}

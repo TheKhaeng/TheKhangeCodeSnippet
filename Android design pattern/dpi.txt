@@ -1,0 +1,16 @@
+
+■ ldpi : Used with screens that have ~120dpi.
+
+■ mdpi : Used with screens that have ~160dpi.
+
+■ hdpi : Used with screens that have ~240dpi.
+
+■ xhdpi : Used with screens that have 320dpi.
+
+■ xxhdpi : Used with screens that have ~480dpi.
+
+■ xxxhdpi : Used with screens that have ~640dpi.
+
+■ nodpi : Resources here will be used on all densities.
+
+■ tvdpi : Used on screens sized between mdpi and hdpi, approximately 213dpi.
